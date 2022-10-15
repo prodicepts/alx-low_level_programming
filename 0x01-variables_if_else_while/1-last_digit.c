@@ -2,8 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 
-/**
- *
+/*
  * main - get the last digit of a random number n everytime
  *
  * it executes, and prints it
