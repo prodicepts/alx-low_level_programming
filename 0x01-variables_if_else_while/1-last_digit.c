@@ -1,13 +1,12 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/*
+/**
  * main - prints the last digit of the random
  * number stored in the variable n
  *
  * Description: 'the program's description'
  * Return: Always 0 (Success)
- *
  */
 int main(void)
 
